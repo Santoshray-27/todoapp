@@ -32,14 +32,6 @@ Minimal design. Powerful features. Zero hassle.
 
 ---
 
-## 💻 Installation
-No complex setup. Just:  
-1. Download `todo.html`  
-2. Open it in your browser  
-3. ✅ You’re ready to conquer your tasks  
-
----
-
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3** (Glassmorphism + Animations)  
@@ -49,7 +41,6 @@ No complex setup. Just:
 ---
 
 ## 📝 License
-This project is released under the [MIT License](LICENSE).  
 Free for personal & commercial use.  
 
 ---
